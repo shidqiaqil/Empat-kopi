@@ -8,10 +8,10 @@
     background-color: transparent;
     border-color: white;
     border-width: 2px;
-    transition-duration: 0.5s;
+    transition-duration: 0.3s;
 }
 #btncashier:hover{
-    background-color: #5c473a; 
+    background-color: #ff9e36; 
     color: white;
  
 }
@@ -27,5 +27,8 @@
     
 }
 #footer{
+    color: white;
+}
+#copyright{
     color: white;
 }
